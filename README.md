@@ -16,7 +16,7 @@ Your bug report should contain:
  - Platform and arch and any other system info you think may be necessary to give us to help resolve your issue.
 
 Remember! Just because you posted an issue here does not mean it is an issue with Dystopia:
-If it is a *graphics issue* on Windows, please be aware that several graphics vendors have recently been breaking DirectX 9 support in their drivers recently. You can test this by using `-r_emulate_gl` as a commandline argument on Windows.
+If it is a *graphics issue* on Windows, please be aware that several graphics vendors have recently been breaking DirectX 9 support in their drivers. You can test this by using `-r_emulate_gl` as a commandline argument on Windows.
 
 ## Requesting Features
 
